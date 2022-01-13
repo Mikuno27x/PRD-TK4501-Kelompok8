@@ -27,7 +27,7 @@ Dalam pengembangan sistem ini, digunakan spesifikasi sistem sebagai berikut:<br/
   <li>Intel Core i7-8550U / i5-8520U any CPU Work tbh</li>
   <li>RAM 16GB</li>
   <li>Microsoft Edge Chrome based</li>
-  <li>Tinkercad</li>
+  <li>Selama bisa menggunakan Tinkercad dan jalan, Aman</li>
 </ul> 
 
 <h2>Komponen</h2>
@@ -39,7 +39,6 @@ Komponen yang diperlukan adalah : <br/>
   <li>Push button</li>
   <li>LCD 16x2 </li>
   <li>LED multi-warna </li>
-  <li>LED</li>
   <li>Buzzer </li>
   <li>Servo motor</li>
 </ul> 

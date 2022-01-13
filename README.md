@@ -31,6 +31,8 @@ Komponen yang diperlukan adalah : <br/>
   <li>Servo motor</li>
 </ul> 
 
+![Skematik](https://user-images.githubusercontent.com/93642379/149358061-a56142ba-1c65-40aa-947e-557f83aff6fd.jpg)
+
 <h2>Implementasi</h2>
 sistem ini bekerja dengan menggunakan Arduino Uno sebagai mikrokontrollernya. Arduino akan membaca nilai masing-masing sensor dan menampilkannya pada LCD 16x2. Arduino ini juga akan mengatur warna lampu LED, dan servo motor sesuai dengan pembacaan nilai sensor. Terdapat juga tombol push button yang digunakan**sebagai darurat**. Dalam penerapan sistem ini, dapat dengan meletakkan LCD 16x2 dan Arduino Uno di ruangan pengawas atau petugas untuk mempermudah memonitor dan perawatan. Selanjutnya sensor-sensor diletakkan pada ruangan yang diperlukan adanya sensor kebakaran.
 

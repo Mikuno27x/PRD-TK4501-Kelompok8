@@ -11,8 +11,10 @@ Alat Pendeteksi Kebakaran menggunakan Tinkercad
   <li>RIZKITA ILHAM RAHADYAN</li>
 </ul> 
 
-Link Presentasi : https: (tel-u account needed/youtube private) <br/>
-Link Laporan : https: (tel-u account needed)
+<h5>Link Presentasi : https: (tel-u account needed/youtube private) </h5>
+<h5>Folder Script : Folder Board Tinkercad dan Script Arduino</h5>
+
+
 
 <h2>Latar Belakang</h2>
 Penyediaan alat pemadam api di dalam bangunan tempat orang bekerja adalah hal yang wajib dilakukan[1]. Hal ini dilakukan untuk mencegah dan meminimalisir adanya kebakaran yang dapat menimbulkan kerugian materil dan non-materil. Setiap bangunan memiliki risiko terjadinya kebakaran. Di tahun 2020, tercatat terjadi 1.505 kejadian kebakaran berbagai objek bangunan dan kendaraan [2]. Atas dasar tersebut, diperlukan adanya sistem pemadam kebakaran yang dapat diandalkan dan dapat dengan mudah dikontrol oleh pengawas atau petugas.

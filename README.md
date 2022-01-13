@@ -11,11 +11,23 @@ Alat Pendeteksi Kebakaran menggunakan Tinkercad
   <li>RIZKITA ILHAM RAHADYAN</li>
 </ul> 
 
-
 Link Presentasi : https:
 
 <h2>Latar Belakang</h2>
 Penyediaan alat pemadam api di dalam bangunan tempat orang bekerja adalah hal yang wajib dilakukan[1]. Hal ini dilakukan untuk mencegah dan meminimalisir adanya kebakaran yang dapat menimbulkan kerugian materil dan non-materil. Setiap bangunan memiliki risiko terjadinya kebakaran. Di tahun 2020, tercatat terjadi 1.505 kejadian kebakaran berbagai objek bangunan dan kendaraan [2]. Atas dasar tersebut, diperlukan adanya sistem pemadam kebakaran yang dapat diandalkan dan dapat dengan mudah dikontrol oleh pengawas atau petugas.
+
+<h2>Alternatif dan Pemilihan Solusi</h2>
+Alternatif yang tersedia di publik luas saat ini adalah sistem pemadam api yang menggunakan sensor asap untuk mendeteksi adanya kebakaran. Sistem tersebut tentunya memiliki kelemahan. Karena hanya menggunakan asap sebagai masukkan data, dapat menimbulkan alarm palsu yang bisa menimbulkan keributan di dalam bangunan. Pada rancangan sistem kami, terdapat sensor temperatur yang bekerja bersama dengan sensor gas/asap. Terdapat juga LCD 16x2 yang memberikan informasi mengenai apa yang dibaca oleh kedua sensor tersebut, sehingga pengawas dapat memutuskan tindakan yang tepat. Sistem ini tetap bisa berfungsi seperti sistem pemadam otomatis pada umumnya, yaitu mengalirkan air secara otomatis jika terdeteksi adanya kebakaran.
+
+<h2>Spesifikasi Sistem</h2>
+Dalam pengembangan sistem ini, digunakan spesifikasi sistem sebagai berikut:<br/>
+<ul>
+  <li>Windows 11 Pro</li>
+  <li>Intel Core i7-8550U / i5-8520U any CPU Work tbh</li>
+  <li>RAM 16GB</li>
+  <li>Microsoft Edge Chrome based</li>
+  <li>Tinkercad</li>
+</ul> 
 
 <h2>Komponen</h2>
 Komponen yang diperlukan adalah : <br/> 
@@ -35,9 +47,6 @@ Komponen yang diperlukan adalah : <br/>
 
 <h2>Implementasi</h2>
 sistem ini bekerja dengan menggunakan Arduino Uno sebagai mikrokontrollernya. Arduino akan membaca nilai masing-masing sensor dan menampilkannya pada LCD 16x2. Arduino ini juga akan mengatur warna lampu LED, dan servo motor sesuai dengan pembacaan nilai sensor. Terdapat juga tombol push button yang digunakan**sebagai darurat**. Dalam penerapan sistem ini, dapat dengan meletakkan LCD 16x2 dan Arduino Uno di ruangan pengawas atau petugas untuk mempermudah memonitor dan perawatan. Selanjutnya sensor-sensor diletakkan pada ruangan yang diperlukan adanya sensor kebakaran.
-
-
-
 
 <h2>Referensi</h2>
 [1]	United States of Labor, “1926.150 - Fire protection. | Occupational Safety and Health Administration,” 1996. [Online]. Available: https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.150. [Accessed: 07-Jan-2022]. <br/>

@@ -48,7 +48,8 @@ Komponen yang diperlukan adalah : <br/>
 ![Skematik](https://user-images.githubusercontent.com/93642379/149358061-a56142ba-1c65-40aa-947e-557f83aff6fd.jpg)
 
 <h2> Flowchart </h2>
-FLOWCHARTNYA MANA
+![image](https://user-images.githubusercontent.com/93642379/149535715-76811ae5-13bc-433b-8911-b5c411560487.png)
+
 
 
 <h2>Implementasi</h2>

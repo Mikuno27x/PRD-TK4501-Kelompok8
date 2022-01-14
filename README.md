@@ -53,7 +53,7 @@ Komponen yang diperlukan adalah : <br/>
 
 
 <h2>Implementasi</h2>
-sistem ini bekerja dengan menggunakan Arduino Uno sebagai mikrokontrollernya. Arduino akan membaca nilai masing-masing sensor dan menampilkannya pada LCD 16x2. Arduino ini juga akan mengatur warna lampu LED, dan servo motor sesuai dengan pembacaan nilai sensor. Terdapat juga tombol push button yang digunakan**sebagai darurat**. Dalam penerapan sistem ini, dapat dengan meletakkan LCD 16x2 dan Arduino Uno di ruangan pengawas atau petugas untuk mempermudah memonitor dan perawatan. Selanjutnya sensor-sensor diletakkan pada ruangan yang diperlukan adanya sensor kebakaran.
+Cara sistem ini bekerja dengan menggunakan Arduino Uno sebagai mikrokontrollernya. Arduino akan membaca nilai masing-masing sensor dan menampilkannya pada LCD 16x2. Arduino ini juga akan mengatur warna lampu LED, dan servo motor sesuai dengan pembacaan nilai sensor. Terdapat juga tombol push button yang digunakan sebagai tombol darurat jika sensor gagal mendeteksi adanya bahaya. Dalam penerapan sistem ini, dapat dengan meletakkan LCD 16x2 dan Arduino Uno di ruangan pengawas atau petugas untuk mempermudah memonitor dan perawatan. Selanjutnya sensor-sensor diletakkan pada ruangan yang diperlukan adanya sensor kebakaran.
 
 <h2>Referensi</h2>
 [1]	United States of Labor, “1926.150 - Fire protection. | Occupational Safety and Health Administration,” 1996. [Online]. Available: https://www.osha.gov/laws-regs/regulations/standardnumber/1926/1926.150. [Accessed: 07-Jan-2022]. <br/>

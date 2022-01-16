@@ -11,7 +11,7 @@ Alat Pendeteksi Kebakaran menggunakan Tinkercad
   <li>RIZKITA ILHAM RAHADYAN</li>
 </ul> 
 
-<h5>Link Presentasi : https: (tel-u account needed/youtube private) </h5>
+<h5>Link Presentasi : https://youtu.be/xzhJUJR2rD4 </h5>
 <h5>Folder Script : Folder Board Tinkercad dan Script Arduino</h5>
 <h5>Tinkercad Alat ada di akun Ali Umar</h5>
 
